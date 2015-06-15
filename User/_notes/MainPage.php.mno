@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_getFirstName" value="name:CustomerID;datatype:int,name:CustomerName;datatype:string" />	<infoitem key="UD_FirstName" value="name:CustomerID;datatype:int,name:CustomerName;datatype:string" /></info>

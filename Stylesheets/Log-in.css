@@ -1,0 +1,100 @@
+/* CSS Document */
+
+body 
+{
+	background-image:url(../images/Background-color.png);
+	background-position:center;
+}
+
+table tr td
+{
+	padding:0px;
+}
+
+.outerTable
+{
+	width:610px;
+	height:100%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;;
+}
+
+.welcomeCell{
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	font-size: 50px;
+	text-align:center;
+	height:75px;
+}
+
+.nameCell{
+	font-size:45px;
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	text-align:center;
+}
+
+.description{
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	text-align:center;
+}
+
+.center {   display: block;   margin-left: auto;   margin-right: auto; }
+
+.textInput{
+	width: 200px;
+	height: 25px;
+	margin-top: 5px;
+	margin-left: auto;
+	margin-right:auto;
+	text-align:center;
+	font-size:12px;
+	
+}
+.loginSubtext{
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+
+.signcell
+{
+	border-bottom-width:10px;
+	border-top-width:thick;
+}
+
+.Button
+{
+      width:70px;
+      height:23px;
+	  background-image:url(../images/ib1.png);
+}
+
+.Button:hover
+{
+	  width:70px;
+      height:23px;
+	  background-image:url(../images/ib2.png);
+}
+
+.info
+{
+		font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		font-size:18px;
+		color:#989898;
+		width:100px;
+		text-align:center;
+}
+
+.footer
+{
+		font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		font-size:11px;
+		color:#989898;
+		width:100px;
+		text-align:center;
+}
+
+.seperator1{ height:40px; }
+.seperator2{ height:3px;}
+.seperator3{ height:7px; }

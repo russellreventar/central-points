@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+	<xsd:element name="companyName" type="xsd:string" />
+	<xsd:element name="dbname" type="xsd:string" />
+	<xsd:element name="points" type="xsd:string" />
+	<xsd:element name="dbpoints" type="xsd:string" />
+	<xsd:element name="companyLogo" type="xsd:string" />
+	<xsd:element name="signup" type="xsd:string" />
+	
+	<xsd:element name="cars">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:element ref="company" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="company" />
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="companyInfo" />
+				<xsd:element ref="companyOptions" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="carInfo">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="companyName" />
+				<xsd:element ref="dbname" />
+				<xsd:element ref="points" />
+				<xsd:element ref="dbpoints" />
+				<xsd:element ref="companyLogo" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+	<xsd:element name="companyOptions">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element ref="signup" />
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+	
+</xsd:schema>

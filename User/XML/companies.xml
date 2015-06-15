@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="company.xsl"?>
+
+<companies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="companies.xsd">		 
+	<company>
+		<companyInfo>
+			<companyName>Petro Canada</companyName>
+			<dbname>petrocanada</dbname>
+			<points>Petro Points</points>
+			<dbpoints>PetroPoints</dbpoints>
+			<companyLogo>petrocan.png</companyLogo>
+		</companyInfo>
+		<companyOptions>
+			<signup>www.petro-canada.ca</signup>
+		</companyOptions>
+	</company>
+	
+	<company>
+		<companyInfo>
+			<companyName>Best Buy</companyName>
+			<dbname>bestbuy</dbname>
+			<points>Best Buy Rewards Points</points>
+			<dbpoints>BestBuyPoints</dbpoints>
+			<companyLogo>bestbuy.png</companyLogo>
+		</companyInfo>
+		<companyOptions>
+			<signup>www.bestbuy.com</signup>
+		</companyOptions>
+	</company>
+	
+	<company>
+		<companyInfo>
+			<companyName>Shoppers Drug Mart</companyName>
+			<dbname>shoppers</dbname>
+			<points>Shoppers Optimum Points</points>
+			<dbpoints>ShoppersPoints</dbpoints>
+			<companyLogo>shoppers.png</companyLogo>
+		</companyInfo>
+		<companyOptions>
+			<signup>www.shoppersdrugmart.ca</signup>
+		</companyOptions>
+	</company>
+	
+	<company>
+		<companyInfo>
+			<companyName>Pharma Plus</companyName>
+			<dbname>pharmaplus</dbname>
+			<points>Pharma Plus Points</points>
+			<dbpoints>PharmaPoints</dbpoints>
+			<companyLogo>pplus.png</companyLogo>
+		</companyInfo>
+		<companyOptions>
+			<signup>www.pharmaplus.com</signup>
+		</companyOptions>
+	</company>
+	
+	<company>
+		<companyInfo>
+			<companyName>Airmiles</companyName>
+			<dbname>airmiles</dbname>
+			<points>Airmiles Rewards Miles</points>
+			<dbpoints>Miles</dbpoints>
+			<companyLogo>airmiles.png</companyLogo>
+		</companyInfo>
+		<companyOptions>
+			<signup>www.airmiles.ca</signup>
+		</companyOptions>
+	</company>
+	
+	<company>
+		<companyInfo>
+			<companyName>Ebay</companyName>
+			<dbname>ebay</dbname>
+			<points>Reward Points</points>
+			<dbpoints>EbayPoints</dbpoints>
+			<companyLogo>ebay.png</companyLogo>
+		</companyInfo>
+		<companyOptions>
+			<signup>www.ebay.com</signup>
+		</companyOptions>
+	</company>
+	
+</companies>

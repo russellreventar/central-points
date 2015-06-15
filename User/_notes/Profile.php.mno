@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><info>	<infoitem key="UD_profile" value="name:CustomerID;datatype:int,name:CustomerName;datatype:string,name:Address;datatype:string,name:Phone;datatype:string,name:Email;datatype:string,name:UserName;datatype:string,name:Password;datatype:int" /></info>

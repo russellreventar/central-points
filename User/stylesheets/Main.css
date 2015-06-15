@@ -1,0 +1,189 @@
+/* CSS Document */
+
+body 
+{
+	background-image:url(../images/Background-color.png);
+	background-position:center;
+}
+
+#wrapper
+{
+	width:1000px;
+	margin:0 auto;
+	padding-top:20px;
+}
+
+.logo{
+	background-image:url(../images/logo.png);
+	background-position:center;
+	
+}
+
+.Name{
+font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+font-size:50px;
+width:650px;
+padding-left:15px;
+}
+.jumpMenu{
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	text-align:right;
+	padding-top:0px;
+	padding-bottom:80px;
+}
+
+.align-right{
+	float:right;
+	margin-top:5px;
+	margin-left:5px;
+}
+
+.social-media-table{
+	width:120px;
+	height:30px;
+	padding-left:8px;
+
+}
+
+.leftmenuCell
+{
+	padding-right:10px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+
+.rightmenuCell
+{
+	padding-right:10px;
+	padding-left:10px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+
+
+.rightmenuCell
+{
+	padding-left:10px;
+	margin-bottom:5px;
+	margin-top:5px;
+}
+
+.image{
+position:relative;
+float:left;
+}
+
+.text1{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 18px;
+	color: #FFF;
+	position: absolute;
+	left: 52px;
+	top: 25px;
+}
+.text1set{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 22px;
+	color: #F90;
+	position: absolute;
+	left: 46px;
+	top: 20px;
+}
+.text2{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 18px;
+	color: #FFF;
+	position: absolute;
+	left: 40px;
+	top: 24px;
+}
+
+.text2set{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 22px;
+	color: #F90;
+	position: absolute;
+	left: 28px;
+	top: 21px;
+}
+
+.text3{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 18px;
+	color: #FFF;
+	position: absolute;
+	left: 40px;
+	top: 24px;
+}
+
+.text3set{
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 22px;
+	color: #F90;
+	position: absolute;
+	left: 38px;
+	top: 21px;
+}
+
+.lightbeam{
+width:155px;
+height:20px;
+padding-right:10px;
+}
+
+
+#banner
+{
+	width:1050px;
+}
+
+#topnav{
+	
+}
+
+#content{
+	
+}
+.center {   display: block;   margin-left: auto;   margin-right: auto; }
+
+#footer
+{
+		font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		font-size:11px;
+		color:#333;
+		width:300px;
+		text-align:center;
+		padding-left:350px;
+		padding-bottom:20px;
+		padding-top:20px;
+}
+
+#bodybackground{
+	background-image:url(../images/bodybackground.png);
+	width:1000px;
+	margin:0 auto;
+	padding-top:1000px;
+	border-color:#666;
+	border:thick;
+}
+
+#bodybackground2{
+	width:1000px;
+	margin:0 auto;
+	padding-top:1000px;
+	border-color:#666;
+	border:thick;
+}
+
+#navBar{
+	width:400px;
+	height:150px;
+	padding-left:100px;
+	padding-right:100px;
+}
+
+.navBar{
+	align:center;
+	padding-top:30px;
+	
+}

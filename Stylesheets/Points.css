@@ -1,0 +1,42 @@
+#compName {
+	width: 958px;
+	padding: 20px;
+	font-size: 20px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: white;
+	font-style: oblique;
+	margin: 0px 0px 5px 0px;
+	background:#333;
+	height: 25px;
+	line-height:46px;
+	font-weight:bold;
+	float:left;
+	border-radius:5px;
+	border: 1px solid #666;
+	
+	background-image: linear-gradient(bottom, rgb(0,0,0) 10%, rgb(135,135,135) 90%, rgb(143,143,143) 95%, rgb(255,255,255) 100%);
+	background-image: -o-linear-gradient(bottom, rgb(0,0,0) 10%, rgb(135,135,135) 90%, rgb(143,143,143) 95%, rgb(255,255,255) 100%);
+	background-image: -moz-linear-gradient(bottom, rgb(0,0,0) 10%, rgb(135,135,135) 90%, rgb(143,143,143) 95%, rgb(255,255,255) 100%);
+	background-image: -webkit-linear-gradient(bottom, rgb(0,0,0) 10%, rgb(135,135,135) 90%, rgb(143,143,143) 95%, rgb(255,255,255) 100%);
+	background-image: -ms-linear-gradient(bottom, rgb(0,0,0) 10%, rgb(135,135,135) 90%, rgb(143,143,143) 95%, rgb(255,255,255) 100%);
+}
+
+.register{
+	text-decoration: none;
+}
+
+#compInfo {
+	padding: 20px;
+	padding-bottom: 50px;
+	font-size: 18px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	background-color: rgba(10, 50, 100, .5);
+	border-radius: 5px;
+}
+
+.cLogo {
+	position: relative;
+	height: 100px;
+	clear: both;
+	float: right;
+}

@@ -1,0 +1,57 @@
+/* CSS Document */
+
+body 
+{
+	background-image:url(../images/Background-color.png);
+	background-position:center;
+}
+
+table tr td
+{
+	padding:0px;
+}
+
+.outerTable
+{
+	width:679px;
+	height:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.nameCell{
+	font-size:45px;
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	text-align:center;
+	width: 670px;
+	height:90px;
+padding-top:20px;
+}
+
+.center {   display: block;   margin-left: auto;   margin-right: auto; }
+
+.footer2
+{
+		font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		font-size:11px;
+		color:#989898;
+		width:100px;
+		text-align:center;
+		padding-top:100px;
+}
+
+.toIndex{
+
+font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+height: 70px;
+padding-top:0px;
+text-align:center;
+}
+
+.acknowledge{
+	padding-top: 0px;
+	text-align:center;
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	height: 80px;
+
+}
